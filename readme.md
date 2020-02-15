@@ -40,6 +40,7 @@ All wav files will be processed and the originals will be moved to a new  folder
 (For most users) Just download the binary from the following link.
 
 ```
+https://github.com/lokanchung/slice-declicker/releases/download/0.1.0/slice-declicker-0.1.0.zip
 ```
 
 다운로드 한 파일을 실행하면 실행 파일이 있는 폴더에 있는 모든 wav파일에 declick작업을 수행합니다. 원본은 backup으로 시작하는 폴더에 저장됩니다.
